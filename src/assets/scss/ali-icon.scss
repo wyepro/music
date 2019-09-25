@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'iconfont';  /* https://www.iconfont.cn/ */
+  src: url('../fonts/iconfont.eot');
+  src: url('../fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/iconfont.woff2') format('woff2'),
+  url('../fonts/iconfont.woff') format('woff'),
+  url('../fonts/iconfont.ttf') format('truetype'),
+  url('../fonts/iconfont.svg#iconfont') format('svg');
+}
+[class^="icon-"], [class*=" icon-"]{
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-person::before{
+  content:"\e624"
+}
+.icon-chaxun::before{
+  content:"\e606"
+}
+.icon-fanhui::before{
+  content:"\e677"
+}
+.icon-zanting::before{
+  content:"\e614"
+}
+.icon-bofang::before{
+  content:"\e607"
+}
+.icon-down::before{
+  content:"\e639"
+}
+.icon-up::before{
+  content:"\e617"
+}
+.icon-shunxu::before{
+  content:"\e63c"
+}
+.icon-sequeue::before{
+  content:"\e65d"
+}
+.icon-suiji::before{
+  content:"\e649"
+}
+.icon-xunhuan::before{
+  content: "\e66d"
+}
+.icon-ffw::before{
+  content:"\e62a"
+}
+.icon-Rew::before{
+  content:"\e62b"
+}
+.icon-dislike::before{
+  content:"\e600"
+}
+.icon-like::before{
+  content:"\e64d"
+}
+.icon-play::before{
+  content:"\e67f"
+}
+.icon-pause::before{
+  content:"\e671"
+}
+.icon-erji::before{
+  content:"\e6b5"
+}
+.icon-del::before{
+  content:"\e601"
+}
+.icon-quxiao::before{
+  content:"\e6a1"
+}
+.icon-shanchu::before{
+  content:"\e682"
+}
+.icon-voice::before{
+  content:"\e602"
+}
